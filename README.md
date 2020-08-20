@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -64,3 +65,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # formulario
 FORMULARIO PARA EL PUESTO DE ANALISTA PROGRAMADOR WEB JUNIOR - JANAQ
 >>>>>>> 2c8624bbab1703b30ae1d7cc74b97d46bb5c2b4f
+=======
+# formulario
+ PRESELECCIÓN PARA EL PUESTO DE ANALISTA PROGRAMADOR WEB JUNIOR
+>>>>>>> 82b443f47ff5a7e1e9ac86915738fb5f64879335
